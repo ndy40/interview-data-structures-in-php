@@ -10,5 +10,10 @@ In as much as these knowledge is vital and good to know, you everyday web progra
 So I decided to build this up so as to make it a quick refresher for subsequent coding interviews. 
 
 ### Data Structures Implemented
-[√] [Linked List](src/LinkedList/LinkedList.php) 
+
+- [x] [Linked List](src/LinkedList/LinkedList.php)
+- [ ] LIFO Stack (Last In First Out)
+- [ ] FILO Stack (First In Last Out)
+- [ ] Queue
+- [ ] 
  
